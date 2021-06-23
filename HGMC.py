@@ -84,13 +84,13 @@ with mp_hands.Holistic(min_detection_confidence=0.5,min_tracking_confidence=0.5)
                          mode='Free'
                      elif (fingers == [0, 1, 0, 0, 0] or fingers == [0, 1, 1, 0, 0]) & (active == 0):
                          mode = 'Scroll'
-                         active = 1
+                         #active = 1
                      elif (fingers == [1, 1, 0, 0, 0]) & (active == 0):
                           mode = 'Volume'
-                          active = 1
+                         # active = 1
                      elif (fingers == [1, 1 , 1, 1, 1] or fingers == [0, 1, 1, 1, 1]) & (active == 0):
                           mode = 'Cursor'
-                          active = 1
+                         # active = 1
 
 
 
