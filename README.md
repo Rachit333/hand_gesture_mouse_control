@@ -5,6 +5,11 @@ CONTROLS:
 1. Scroll:
 	Put up Index finger to scroll up and Index and Middle finger to scroll down.
 	
+2. Cursor and Click:
+	Show all five fingers and cursor will start to move. Close thumb to click while other four fingers are open.
 	
-	![image](https://static.thenounproject.com/png/473571-200.png)   ![up](https://user-images.githubusercontent.com/64753500/123042213-17e12e80-d414-11eb-844b-71e40026ce1e.png)
-
+3. Volume:
+	Close all fingers other than thumb and index finger. Bring index finger colser to thumb to increase volume and vice-versa.
+	
+4. Free state:
+	Close all fingers to make fist and no actions will be taken.
