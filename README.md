@@ -1,3 +1,4 @@
 # hand_gesture_mouse_control
 
-CONTROLS
+CONTROLS:
+  1. 
